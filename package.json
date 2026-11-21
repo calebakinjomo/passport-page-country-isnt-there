@@ -1,0 +1,1 @@
+{"description":"An invented passport spread for the Republic of Kestrelia, drawn entirely in code.","license":"MIT","main":"main.ts","name":"passport-page-country-isnt-there","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
